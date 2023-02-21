@@ -1,5 +1,7 @@
 # TicTacToe Project
 
+Preview: https://yeongzhun.github.io/TicTacToe/#
+
 Tic Tac Toe is as simple as it gets as a game played by kids. Yet I have learnt a lot of my shortcomings while writing the javascript logic and implementations.
 
 It serves as a good reminder of how I should plan the skeletal structure of the whole application, as elaborated in this write-up: https://www.ayweb.dev/blog/building-a-house-from-the-inside-out
